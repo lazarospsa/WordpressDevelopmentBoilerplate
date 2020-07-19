@@ -1,4 +1,4 @@
-Hello, this is a repo is a boilerplate for fast development with containers mysql, phpmyadmin, wordpress!
+Hello, this repo is a boilerplate for fast development with containers mysql, phpmyadmin, wordpress!
 
 You can run this with:
 '''
